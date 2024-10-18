@@ -1,4 +1,4 @@
-# Remove_Pub_IP_AWSRemove_Pub_IP_AWS
+# Remove_Pub_IP_AWS EC2
 
 Como melhor prática de segurança, é necessário que não se utilize IPs públicos diretamente nas instâncias EC2.
 
